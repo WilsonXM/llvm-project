@@ -1,0 +1,6 @@
+--- !FileInfo:
+  filepath: "/home/xm/Graduation/llvm-project/mlir/test/lib/Tools/PDLL/TestPDLL.pdll"
+  includes: "/home/xm/Graduation/llvm-project/mlir/test/lib/Tools/PDLL;/home/xm/Graduation/llvm-project/mlir/build/tools/mlir/include;/home/xm/Graduation/llvm-project/mlir/include;/home/xm/Graduation/llvm-project/mlir/build/include;/home/xm/Graduation/llvm-project/llvm/include;/home/xm/Graduation/llvm-project/mlir/test/lib/Tools/PDLL/../../Dialect/Test;/home/xm/Graduation/llvm-project/mlir/build/tools/mlir/test/lib/Tools/PDLL/../../Dialect/Test"
+--- !FileInfo:
+  filepath: "/home/xm/Graduation/llvm-project/mlir/test/lib/Transforms/TestDialectConversion.pdll"
+  includes: "/home/xm/Graduation/llvm-project/mlir/test/lib/Transforms;/home/xm/Graduation/llvm-project/mlir/build/tools/mlir/include;/home/xm/Graduation/llvm-project/mlir/include;/home/xm/Graduation/llvm-project/mlir/build/include;/home/xm/Graduation/llvm-project/llvm/include;/home/xm/Graduation/llvm-project/mlir/test/lib/Transforms/../Dialect/Test;/home/xm/Graduation/llvm-project/mlir/build/tools/mlir/test/lib/Transforms/../Dialect/Test"
